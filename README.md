@@ -32,7 +32,7 @@ This package calculates the difference between two data files. It compares the c
 ### **BrainGames** [(php-project-45)](https://github.com/ruzen01/php-project-45)  
 BrainGames is a project developed on Hexlet for novice PHP developers. It focuses on building foundational programming skills through a series of interactive games and challenges designed to enhance problem-solving and logical thinking.
 
-### **Mafia Game Service** [(Personal Project mafia-game)](https://github.com/ruzen01/mafia-game)  
+### **Mafia Game Service** [(personal project mafia-game)](https://github.com/ruzen01/mafia-game)  
 Mafia Game Service is a platform for recording the results of Mafia game sessions. It allows users to log game outcomes, track player performance, and manage game statistics, providing a comprehensive tool for organizing and analyzing Mafia games.
 
 ## Contacts
