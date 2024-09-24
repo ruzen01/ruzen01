@@ -1,33 +1,52 @@
-# Привет! 👋
+# Hello! 👋
 
-## Технологический стек
+## About Me
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+I am a passionate PHP developer with experience in building scalable web applications using Laravel. I enjoy solving complex problems and continuously learning new technologies to enhance my skill set.
 
-## Обо мне
+## Skills
 
-Я — [Ваше Имя], разработчик с опытом работы в PHP и Laravel. Мне нравится создавать эффективные и масштабируемые веб-приложения. В свободное время я изучаю новые технологии и совершенствую свои навыки в работе с базами данных MySQL и PostgreSQL.
+- **Programming Languages**: PHP, JavaScript, HTML, CSS
+- **Frameworks**: Laravel, Vue.js
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: Git, Composer, Docker
 
-## Навыки
+## Technology Stack
 
-- **Языки программирования**: PHP, JavaScript, HTML, CSS
-- **Фреймворки**: Laravel, Vue.js
-- **Базы данных**: MySQL, PostgreSQL
-- **Инструменты**: Git, Docker, Composer
+[<img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40" />](https://www.php.net/)
+[<img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="40" />](https://laravel.com/)
+[<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" />](https://www.mysql.com/)
+[<img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="40" />](https://www.postgresql.org/)
 
-## Проекты
+## Projects
 
-### [Название Проекта](https://github.com/ваш_профиль/название_проекта)
-Описание проекта. Используемые технологии: PHP, Laravel, MySQL.
+### [Project Alpha](https://github.com/yourusername/project-alpha)
+A web application that allows users to track their tasks and manage projects efficiently. Built with PHP, Laravel, and MySQL.
 
-### [Название Проекта](https://github.com/ваш_профиль/название_проекта)
-Описание проекта. Используемые технологии: PHP, Laravel, PostgreSQL.
+### [Project Beta](https://github.com/yourusername/project-beta)
+An e-commerce platform with real-time inventory management and user authentication. Developed using PHP, Laravel, and PostgreSQL.
 
-## Контакты
+## Contacts
 
-- [Email](mailto:ваш.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/ваш_профиль)
-- [Twitter](https://twitter.com/ваш_профиль)
+- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+<!--
+ruzen01/ruzen01 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
