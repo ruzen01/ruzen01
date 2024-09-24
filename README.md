@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a 
+Motivated back-end developer from Vladivostok with completed coursework in PHP development and foundational knowledge of Laravel from Hexlet online school. Although my experience is at a basic level, I am persistent and a quick learner, eager to contribute to a dynamic team. Seeking a position as a PHP Developer to apply and further develop my skills.
 
 ## Skills
 
