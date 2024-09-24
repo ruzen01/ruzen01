@@ -9,14 +9,14 @@
 
 ## Обо мне
 
-Я — [Ваше Имя], разработчик с опытом работы в PHP и Laravel. Мне нравится создавать эффективные и масштабируемые веб-приложения. В свободное время я изучаю новые технологии и совершенствую свои навыки в работе с базами данных MySQL и PostgreSQL.
+Я — 
 
 ## Навыки
 
-- **Языки программирования**: PHP, JavaScript, HTML, CSS
-- **Фреймворки**: Laravel, Vue.js
+- **Языки программирования**: PHP
+- **Фреймворки**: Laravel
 - **Базы данных**: MySQL, PostgreSQL
-- **Инструменты**: Git, Docker, Composer
+- **Инструменты**: Git, Composer
 
 ## Проекты
 
@@ -28,9 +28,8 @@
 
 ## Контакты
 
-- [Email](mailto:ваш.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/ваш_профиль)
-- [Twitter](https://twitter.com/ваш_профиль)
+- [Email](mailto:kim.vadim.alexandrovich@gmail.com)
+
 <!--
 **ruzen01/ruzen01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
