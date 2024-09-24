@@ -1,12 +1,5 @@
 # Привет! 👋
 
-## Технологический стек
-
-[<img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40" />](https://www.php.net/)
-[<img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="40" />](https://laravel.com/)
-[<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" />](https://www.mysql.com/)
-[<img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="40" />](https://www.postgresql.org/)
-
 ## Обо мне
 
 Я — 
@@ -17,6 +10,13 @@
 - **Фреймворки**: Laravel
 - **Базы данных**: MySQL, PostgreSQL
 - **Инструменты**: Git, Composer
+
+## Технологический стек
+
+[<img src="https://cdn.simpleicons.org/php/777BB4" alt="PHP" width="40" />](https://www.php.net/)
+[<img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="40" />](https://laravel.com/)
+[<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="40" />](https://www.mysql.com/)
+[<img src="https://cdn.simpleicons.org/postgresql/336791" alt="PostgreSQL" width="40" />](https://www.postgresql.org/)
 
 ## Проекты
 
