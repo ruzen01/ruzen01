@@ -21,20 +21,14 @@ I am a
 ## Projects
 
 ### [Project Alpha](https://github.com/yourusername/project-alpha)
-A web application that allows users to track their tasks and manage projects efficiently. Built with PHP, Laravel, and MySQL.
+
 
 ### [Project Beta](https://github.com/yourusername/project-beta)
-An e-commerce platform with real-time inventory management and user authentication. Developed using PHP, Laravel, and PostgreSQL.
+
 
 ## Contacts
 
 - [Email](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzen01&show_icons=true)
 
 <!--
 ruzen01/ruzen01 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
