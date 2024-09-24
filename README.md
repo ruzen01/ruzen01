@@ -9,7 +9,7 @@ I am a
 - **Programming Languages**: PHP, HTML, CSS
 - **Frameworks**: Laravel
 - **Databases**: MySQL, PostgreSQL
-- **Tools**: Git, Composer
+- **Tools**: ChatGPT, Git, Composer
 
 ## Technology Stack
 
