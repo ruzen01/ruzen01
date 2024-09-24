@@ -2,14 +2,14 @@
 
 ## About Me
 
-I am a passionate PHP developer with experience in building scalable web applications using Laravel. I enjoy solving complex problems and continuously learning new technologies to enhance my skill set.
+I am a 
 
 ## Skills
 
-- **Programming Languages**: PHP, JavaScript, HTML, CSS
-- **Frameworks**: Laravel, Vue.js
+- **Programming Languages**: PHP, HTML, CSS
+- **Frameworks**: Laravel
 - **Databases**: MySQL, PostgreSQL
-- **Tools**: Git, Composer, Docker
+- **Tools**: Git, Composer
 
 ## Technology Stack
 
@@ -34,7 +34,7 @@ An e-commerce platform with real-time inventory management and user authenticati
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ruzen01&show_icons=true)
 
 <!--
 ruzen01/ruzen01 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
