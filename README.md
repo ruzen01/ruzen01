@@ -20,19 +20,19 @@ Motivated back-end developer from Vladivostok with completed coursework in PHP d
 
 ## **Projects**
 
-### **Task Manager** [(php-project-57)](https://github.com/ruzen01/php-project-57)
+**Task Manager** [(php-project-57)](https://github.com/ruzen01/php-project-57)
 Task Manager is a task management system similar to [Redmine](http://www.redmine.org/). It allows users to create tasks, assign executors, and change their statuses. Registration is required to use the system.
 
-### **Page Analyzer** [(php-project-9)](https://github.com/ruzen01/php-project-9)  
+**Page Analyzer** [(php-project-9)](https://github.com/ruzen01/php-project-9)  
 Page Analyzer is a web application that provides detailed information based on a given URL. It analyzes various aspects of the webpage, offering insights and reports to help users understand the content and structure of the site.
 
-### **Data Difference Calculator** [(php-project-48)](https://github.com/ruzen01/php-project-48)  
+**Data Difference Calculator** [(php-project-48)](https://github.com/ruzen01/php-project-48)  
 This package calculates the difference between two data files. It compares the contents and highlights the changes, making it easier to identify modifications between different versions of data sets.
 
-### **BrainGames** [(php-project-45)](https://github.com/ruzen01/php-project-45)  
+**BrainGames** [(php-project-45)](https://github.com/ruzen01/php-project-45)  
 BrainGames is a project developed on Hexlet for novice PHP developers. It focuses on building foundational programming skills through a series of interactive games and challenges designed to enhance problem-solving and logical thinking.
 
-### **Mafia Game Service** [(personal project mafia-game)](https://github.com/ruzen01/mafia-game)  
+**Mafia Game Service** [(personal project mafia-game)](https://github.com/ruzen01/mafia-game)  
 Mafia Game Service is a platform for recording the results of Mafia game sessions. It allows users to log game outcomes, track player performance, and manage game statistics, providing a comprehensive tool for organizing and analyzing Mafia games.
 
 ## Contacts
